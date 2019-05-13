@@ -1,4 +1,4 @@
-2wirebrute
+:muscle: 2wirebrute
 ==========
 
 2wire routers ship with a default password scheme that is vulnerable to brute
